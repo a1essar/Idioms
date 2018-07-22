@@ -1,0 +1,42 @@
+[
+  {
+    "id": 0,
+    "title": "Straight from the horse’s mouth",
+    "description": "Getting information directly from the most reliable source",
+    "translates": {
+      "ru": "Из первых уст"
+    }
+  },
+  {
+    "id": 1,
+    "title": "Let the cat out of the bag",
+    "description": "To mistakenly reveal a secret",
+    "translates": {
+      "ru": "Проболтаться, выдать секрет, рассказать тайну"
+    }
+  },
+  {
+    "id": 2,
+    "title": "Butter someone up",
+    "description": "To praise or flatter someone, usually to gain a favor",
+    "translates": {
+      "ru": "Льстить, умасливать"
+    }
+  },
+  {
+    "id": 3,
+    "title": "Pulling someone’s leg",
+    "description": "Teasing someone, usually by lying in a joking manner",
+    "translates": {
+      "ru": "Подшучивать над кем-либо, поддразнивать"
+    }
+  },
+  {
+    "id": 4,
+    "title": "Wolf in sheep’s clothing",
+    "description": "Someone who is pretending to be something they are not, usually to the detriment of others",
+    "translates": {
+      "ru": "Опасный человек, который стремится казаться безобидным"
+    }
+  }
+]

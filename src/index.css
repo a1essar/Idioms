@@ -1,0 +1,31 @@
+html {
+  font-size: calc(14px + (26 - 14) * ((100vw - 300px) / (1600 - 300)));
+  line-height: calc(1.3em + (1.5 - 1.2) * ((100vw - 300px) / (1600 - 300)));
+}
+
+:focus,
+:active {
+  outline-width: 1px;
+}
+
+.slick-list {
+  overflow: hidden;
+  padding: 2em 0;
+}
+
+.slick-track {
+  white-space: nowrap;
+  font-size: 0;
+}
+
+.slick-slide {
+  display: inline-block;
+}
+
+.hide {
+  display: none;
+}
+
+.show {
+  display: block;
+}
