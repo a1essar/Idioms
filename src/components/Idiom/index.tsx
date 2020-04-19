@@ -32,8 +32,8 @@ export class Idiom extends React.PureComponent<Props, State> {
     const { title, description, translate } = this.props;
     const { isShowTraslate } = this.state;
 
-    const translateClasses = "Idiom__description Idiom__descriptionTranslate";
-    const descriptionClasses = "Idiom__description";
+    let translateClasses = "Idiom__description Idiom__descriptionTranslate";
+    let descriptionClasses = "Idiom__description";
 
     if (isShowTraslate) {
       descriptionClasses += " hide";
